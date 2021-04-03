@@ -13,7 +13,7 @@
 </head>
 <body>
  <h1 align="center">Simplilearn 2021 and Caltech University</h1>
-<h1 align="center">Congrats - your app deployed on Tomcat!</h1>
+<h1 align="center">MavenApps deployed remotely using "Deploy to container" plugin to Tomcat</h1>
 <h2 align="center">This is cool huh?! Yes Really!!!!</h2>
 </body>
 </html>
